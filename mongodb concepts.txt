@@ -1,0 +1,12 @@
+elematch eq ,ne
+pull , push 
+findbyidandupdate and all its related functions and thier various multiple syntaxes 
+populate , path , select , 
+deletemany, in
+
+exec 
+new true 
+aggregate 
+group 
+match 
+avg

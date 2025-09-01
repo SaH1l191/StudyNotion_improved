@@ -1,0 +1,4 @@
+mongoose , nodemon , jsonwebtoken ,express, otp-generator , dotenv ,cookie-parser , nodemailer , bcrypt
+frontend : - typeanimation , routerdom , crypto ,
+react-stars , razerpay , react otp , copy to clipboard , react super tables(responsive) ,chart js  , react-form , react video,
+concurrently , axios , redux 
