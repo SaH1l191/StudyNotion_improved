@@ -1,6 +1,9 @@
 # StudyNotion - EdTech Platform 📚
-
-## 🚀 Project Overview & Resume Metrics
+# StudyNotion - EdTech Platform
+:rocket: https://v0-study-notion.vercel.app/
+ 
+![Main Page](images/mainpage.png)
+## 🚀 Project Overview &   Metrics
 
 StudyNotion is a comprehensive EdTech platform built with the MERN stack, designed to provide seamless online learning experiences. This project demonstrates advanced full-stack development capabilities with real-world scalability and performance considerations.
 
